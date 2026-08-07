@@ -1,207 +1,244 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=x0null&fontSize=70&animation=twinkling" alt="x0null profile header" />
+</p>
 
-# `x0null`
+<!-- Title -->
 
-### GHOST IN THE SHELL
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00FF66&center=true&vCenter=true&width=760&lines=Security+Researcher;Java+%7C+Python+Developer;Linux+Enthusiast;Open+Source+Explorer;Always+Learning...+Always+Building..." />
+<h3 align="center">
+    <samp>
+        &gt; Hey There!, I am
+        <b><a target="_blank" href="https://github.com/x0null">x0null</a></b>
+    </samp>
+</h3>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=x0null&label=PROFILE+VIEWS&color=00ff66&style=flat-square" />
+<p align="center">
+<samp>
+「 Security Research • Linux • Open Source • Python • Java 」  
+</samp>
+</p>
 
-</div>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Security+Researcher;Python+%7C+Java+Developer;Linux+Enthusiast;Open+Source+Explorer;Deep+Underground"
+    alt="Typing SVG"
+  />
+</p>
 
----
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Animated security and development visual">
+</p>
 
-```bash
-┌──(x0null㉿underground)-[~]
-└─$ whoami
-Security Researcher / Developer / Linux Enthusiast
 
-┌──(x0null㉿underground)-[~]
-└─$ pwd
-/deep/underground
 
-┌──(x0null㉿underground)-[~]
-└─$ echo $STATUS
-ONLINE
-```
+<!-- Title -->
 
----
+<p align="center">
+  <img src="./docs/img/system_access_title.svg" width="100%" alt="System access section title" />
+</p>
 
-## `> identity`
+<p align="center">
 
-```python
-class X0Null:
-    def __init__(self):
-        self.alias = "x0null"
-        self.location = "Deep Underground"
-        self.role = "Developer / Security Researcher"
-
-        self.languages = [
-            "Python",
-            "Java",
-            "JavaScript",
-            "Bash"
-        ]
-
-        self.interests = [
-            "Cyber Security",
-            "Linux",
-            "Backend Development",
-            "Automation",
-            "Open Source",
-            "OSINT",
-            "Networking"
-        ]
-
-    def status(self):
-        return "Learning. Building. Exploring."
-
-me = X0Null()
-```
-
----
-
-## `> stack`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,bash,linux,git,github,vscode,docker&theme=dark" />
-
-</div>
-
----
-
-## `> currently_exploring`
-
-```text
-[+] Linux Internals
-[+] Python Automation
-[+] Java Development
-[+] Backend Systems
-[+] Security Research
-[+] Open Source Intelligence
-[+] Networking
-[+] System Administration
-```
-
----
-
-## `> github_stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=x0null&show_icons=true&hide_border=true&theme=chartreuse-dark&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x0null&layout=compact&hide_border=true&theme=chartreuse-dark" />
-
-</div>
-
----
-
-## `> streak`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=x0null&theme=dark&hide_border=true&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" />
-
-</div>
-
----
-
-## `> activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=x0null&bg_color=000000&color=00ff66&line=00ff66&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
-## `> trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=x0null&theme=matrix&no-frame=true&no-bg=true&margin-w=8" />
-
-</div>
-
----
-
-## `> philosophy`
-
-```text
-Knowledge     > Tools
-Understanding > Memorization
-Curiosity     > Comfort
-Consistency   > Motivation
-Execution     > Excuses
-```
-
----
-
-## `> current_mission`
-
-```bash
-$ ./mission.sh
-
-[*] Sharpening programming skills...
-[*] Exploring Linux internals...
-[*] Building useful tools...
-[*] Studying security concepts...
-[*] Automating repetitive tasks...
-[*] Contributing to open source...
-[*] Turning curiosity into code...
-
-[+] STATUS: MISSION ACTIVE
-```
-
----
-
-## `> system_info`
-
-```text
-USER      : x0null
-LOCATION  : Deep Underground
-SHELL     : /bin/bash
-LANG      : Python / Java
-OS        : Linux
-MODE      : LEARNING
-STATUS    : ONLINE
-ACCESS    : GRANTED
-```
-
----
-
-## `> featured_project`
-
-<div align="center">
-
-<a href="https://github.com/x0null/Telegram-Searcher">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=x0null&repo=Telegram-Searcher&theme=chartreuse-dark&hide_border=true" />
+<a href="#">
+  <img width="82%" src="./docs/img/system/portal_main.svg" alt="x0null System portal" />
 </a>
 
+</p>
+
+<p align="center">
+
+<a href="#">
+  <img width="32%" src="./docs/img/system/neural_lab.svg" alt="Neural Lab" />
+</a>
+<a href="#">
+  <img width="32%" src="./docs/img/system/molecule_lab.svg" alt="Molecule Lab" />
+</a>
+<a href="#">
+  <img width="32%" src="./docs/img/system/model_forge.svg" alt="Model Forge" />
+</a>
+
+</p>
+
+
+
+<p align="center">
+  <img src="./docs/img/x0null_core.svg" width="100%" alt="System core panel" />
+</p>
+
+
+
+🛠 Technologies, Projects, and Domains
+
+<table border="0" cellspacing="10" cellpadding="0">
+<tr>
+
+<!-- LEFT: TOOLS -->
+
+<td width="420" valign="top" align="center">
+
+<h3>🛠 Technologies</h3>
+<br>
+
+<table align="center" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="32"/></td>
+  </tr>
+</table>
+
+</td>
+
+<!-- PROJECTS -->
+
+<td width="260" valign="top" align="center">
+
+<h3>🧪 Projects</h3>
+<br>
+
+<div style="width:220px;">
+  <a href="docs/PROJECTS.md">
+    <img src="docs/img/tech_projects_panel.svg" width="220" alt="Projects navigation panel">
+  </a>
 </div>
 
----
+</td>
 
-## `> final_message`
+<!-- SECURITY DOMAINS -->
 
-<div align="center">
+<td width="260" valign="top" align="center">
 
-### `There is always another layer.`
+<h3>🛡️ Security Domains</h3>
+<br>
 
-```text
-root@x0null:~# _
-```
-
+<div style="width:220px;">
+    <a href="docs/SECURITY_DOMAIN.md">
+        <img src="docs/img/security_domains.svg" width="220" alt="Security domains navigation panel">
+    </a>
 </div>
 
-<!--
-========================================================
-CONTACT / SOCIAL SECTION
-========================================================
--->
+</td>
+
+</tr>
+</table>
+
+
+
+📊 Vital Statistics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x0null&theme=radical" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=x0null&theme=radical" alt="GitHub profile contribution summary" />
+</p>    
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=x0null&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Time-Learning%20%26%20Building-36BCF7?style=flat" alt="Views" />
+</p>
+
+
+
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr>
+
+<!-- LEFT: COLLAB -->
+
+<td width="33%" valign="top">
+
+<h2>🤝 Collaboration</h2>
+
+I’m open to collaborating on:
+
+<ul>
+  <li>Security research projects</li>
+  <li>Python & Java development</li>
+  <li>Linux & open-source projects</li>
+  <li>Automation & backend systems</li>
+</ul>
+
+</td>
+
+<!-- MIDDLE: PANEL -->
+
+<td width="34%" align="center" valign="middle">
+    <a href="docs/COLLAB.md">
+        <img src="docs/img/collaboration_panel.svg" width="200px" alt="Collaboration navigation panel" />
+    </a>
+</td>
+
+<!-- RIGHT: CONTACT -->
+
+<td width="33%" valign="top" align="center">
+
+<h2>📫 Contact</h2>
+
+<br>
+
+<!-- Contact links intentionally left empty for now.
+Add Website / Email / Telegram / LinkedIn here later. -->
+
+</td>
+
+</tr>
+</table>
+
+
+
+<p align="center">
+⚡ Building software, exploring systems, and learning security
+</p>
+<p align="center">
+Star ⭐ the repos if they helped you!
+</p>
+
+<p align="center">
+  <a href="./CODE_OF_CONDUCT.md">Code of Conduct</a> ·
+  <a href="./CONTRIBUTING.md">Collaboration</a> ·
+  <a href="./SECURITY.md">Security</a>
+</p>
+
+
+
+<p align="center">
+    <a href="docs/hidden/easter_egg.md">
+        <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/icons/devops/icon_heartbeat_node.svg" width="20px" alt="Hidden easter egg link">
+    </a>
+</p>
+
